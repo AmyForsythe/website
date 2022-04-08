@@ -32,3 +32,7 @@ Jenn Sunday Twitter: @jennsunday Github: @jennsunday website:http://jennsunday.w
 
 Bryn Wiley
 GitHub:https://github.com/BrynWiley
+
+Amy Forsythe
+Twitter: @amybforsythe
+Github: AmyForsythe
